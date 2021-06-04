@@ -1,0 +1,28 @@
+LOGISTIC REGRESSION:
+
+Accuracy is 65.2671755725191
+Cross validation is 70.60514923672818
+
+Decision tree classifier:
+
+Accuracy is 58.01526717557252
+Cross validation is 60.59056732740944
+
+RANDOM FOREST:
+
+Accuracy is 65.64885496183206
+Cross validation is 68.79152426520847
+
+EXTRA TREE CLASSIFIER:
+
+Accuracy is 68.32061068702289
+Cross validation is 68.31670084301662
+
+HYPER PARAMETER TUNING:
+
+Accuracy is 66.79389312977099
+Cross validation is 71.27409432672592
+
+
+
+
